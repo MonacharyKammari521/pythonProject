@@ -10,8 +10,8 @@ def print_hi(name):
     another_print()
 
 
-# def another_print():
-#     print("testing git")
+def another_print():
+    print("testing git")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
